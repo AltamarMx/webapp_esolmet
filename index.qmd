@@ -1,0 +1,153 @@
+---
+title: "WeatherLab"
+lang: es
+author:
+  - Sophia 
+  - Erick
+  - Jose Ramón
+  - Pilar
+  - Abdelaly 
+  - Fernando H
+  - Fernando R
+  - Guillermo
+format: 
+  revealjs:
+    slide-number: c/t  
+    touch: true
+    theme: white
+    vertical-center: true
+---
+
+
+
+<style>
+.profile-container {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 2rem;
+align-items: center;    /* centra verticalmente la fila */
+justify-items: center;  /* centra cada columna */
+width: 100%;
+height: 100%;           /* ocupa todo el alto de la slide */
+}
+.profile-container img {
+width: clamp(200px, 25vw, 300px);
+height: clamp(200px, 25vw, 300px);
+object-fit: cover;
+border-radius: 50%;
+box-shadow: 0 6px 16px rgba(0,0,0,.15);
+transition: transform .3s ease;
+}
+.profile-text {
+text-align: center;
+padding: 0 1rem;
+}
+.profile-text .name {
+font-size: 2.4rem;
+font-weight: bold;
+margin-bottom: 0.8rem;
+}
+.profile-text .desc {
+font-size: 1.6rem;
+line-height: 1.4;
+max-width: 80%;
+margin: 0 auto;
+}
+.profile-container img:hover {
+transform: scale(1.05);
+}
+</style>
+
+## Sophia
+
+<div class="profile-container">
+<div><img src="fotos/Sophia.jpg" alt="Sophia"></div>
+<div class="profile-text">
+  <div class="name">Sophia</div>
+  <div class="desc">Le apasiona la visualización de datos y el diseño de dashboards interactivos que cuentan historias.</div>
+</div>
+</div>
+
+---
+
+## Erick
+
+<div class="profile-container">
+<div><img src="fotos/Erick.jpg" alt="Erick"></div>
+<div class="profile-text">
+  <div class="name">Erick</div>
+  <div class="desc">Le interesa el análisis energético y el modelado de la demanda en tiempo real para edificios.</div>
+</div>
+</div>
+
+---
+
+## José Ramón
+
+<div class="profile-container">
+<div><img src="fotos/Jose_Ramon.jpg" alt="José Ramón"></div>
+<div class="profile-text">
+  <div class="name">José Ramón</div>
+  <div class="desc">Disfruta optimizando algoritmos y procesando grandes volúmenes de datos con Python y DuckDB.</div>
+</div>
+</div>
+
+---
+
+## Pilar
+
+<div class="profile-container">
+<div><img src="fotos/Pilar.jpg" alt="Pilar"></div>
+<div class="profile-text">
+  <div class="name">Pilar</div>
+  <div class="desc">Especialista en integrar sensores y crear interfaces web interactivas con Shiny en Python.</div>
+</div>
+</div>
+
+---
+
+## Abdelaly
+
+<div class="profile-container">
+<div><img src="fotos/Abdelaly.jpg" alt="Abdelaly"></div>
+<div class="profile-text">
+  <div class="name">Abdelaly</div>
+  <div class="desc">Investiga confort térmico y aplica el índice UTCI para mejorar la eficiencia de edificios.</div>
+</div>
+</div>
+
+---
+
+## Fernando H
+
+<div class="profile-container">
+<div><img src="fotos/Fernando_H.jpg" alt="Fernando H"></div>
+<div class="profile-text">
+  <div class="name">Fernando H</div>
+  <div class="desc">Diseña pipelines de datos y automatiza la limpieza y transformación con DuckDB.</div>
+</div>
+</div>
+
+---
+
+## Fernando R
+
+<div class="profile-container">
+<div><img src="fotos/Fernando_R.jpg" alt="Fernando R"></div>
+<div class="profile-text">
+  <div class="name">Fernando R</div>
+  <div class="desc">Le apasiona la ingeniería de datos en tiempo real y la integración de APIs en Python.</div>
+</div>
+</div>
+
+---
+
+## Guillermo Barrios
+
+<div class="profile-container">
+<div><img src="fotos/Guillermo.jpg" alt="Guillermo Barrios"></div>
+<div class="profile-text">
+  <div class="name">Guillermo Barrios</div>
+  <div class="desc">Disfruta de preparar cafés, manipular datos y hacer visualizaciones claras y efectivas.</div>
+</div>
+</div>
