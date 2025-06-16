@@ -1,58 +1,86 @@
 [
   {
-    "objectID": "index.html#sophia",
-    "href": "index.html#sophia",
+    "objectID": "index.html#objetivo",
+    "href": "index.html#objetivo",
     "title": "WeatherLab",
-    "section": "Sophia",
-    "text": "Sophia\n\n\n\n\n\n\nSophia\n\n\nLe apasiona la visualización de datos y el diseño de dashboards interactivos que cuentan historias."
+    "section": "Objetivo",
+    "text": "Objetivo\n\nCrear una web app para administrar y visualizar los datos de cualquier estación meteorológica, configurable y con tecnologías abiertas."
   },
   {
-    "objectID": "index.html#erick",
-    "href": "index.html#erick",
+    "objectID": "index.html#objetivos-especificos",
+    "href": "index.html#objetivos-especificos",
     "title": "WeatherLab",
-    "section": "Erick",
-    "text": "Erick\n\n\n\n\n\n\nErick\n\n\nLe interesa el análisis energético y el modelado de la demanda en tiempo real para edificios."
+    "section": "Objetivos especificos",
+    "text": "Objetivos especificos\n\nTener una base de datos históricos limpios\nApp para visualizar y descargar los datos históricos, configurable y libre\nHerramientas educativas/investigación asociadas a los datos"
   },
   {
-    "objectID": "index.html#josé-ramón",
-    "href": "index.html#josé-ramón",
+    "objectID": "index.html#tecnologías",
+    "href": "index.html#tecnologías",
     "title": "WeatherLab",
-    "section": "José Ramón",
-    "text": "José Ramón\n\n\n\n\n\n\nJosé Ramón\n\n\nDisfruta optimizando algoritmos y procesando grandes volúmenes de datos con Python y DuckDB."
+    "section": "Tecnologías",
+    "text": "Tecnologías\n\nPython\nShiny\nGit/GitHub\nDuckDB"
   },
   {
-    "objectID": "index.html#pilar",
-    "href": "index.html#pilar",
+    "objectID": "index.html#el-team",
+    "href": "index.html#el-team",
     "title": "WeatherLab",
-    "section": "Pilar",
-    "text": "Pilar\n\n\n\n\n\n\nPilar\n\n\nEspecialista en integrar sensores y crear interfaces web interactivas con Shiny en Python."
+    "section": "El Team:",
+    "text": "El Team:"
   },
   {
-    "objectID": "index.html#abdelaly",
-    "href": "index.html#abdelaly",
+    "objectID": "index.html#section",
+    "href": "index.html#section",
     "title": "WeatherLab",
-    "section": "Abdelaly",
-    "text": "Abdelaly\n\n\n\n\n\n\nAbdelaly\n\n\nInvestiga confort térmico y aplica el índice UTCI para mejorar la eficiencia de edificios."
+    "section": "",
+    "text": "Sophia\n\n\nLe apasiona la visualización de datos y el diseño de dashboards interactivos que cuentan historias."
   },
   {
-    "objectID": "index.html#fernando-h",
-    "href": "index.html#fernando-h",
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
     "title": "WeatherLab",
-    "section": "Fernando H",
-    "text": "Fernando H\n\n\n\n\n\n\nFernando H\n\n\nDiseña pipelines de datos y automatiza la limpieza y transformación con DuckDB."
+    "section": "",
+    "text": "Erick\n\n\nLe interesa el análisis energético y el modelado de la demanda en tiempo real para edificios."
   },
   {
-    "objectID": "index.html#fernando-r",
-    "href": "index.html#fernando-r",
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
     "title": "WeatherLab",
-    "section": "Fernando R",
-    "text": "Fernando R\n\n\n\n\n\n\nFernando R\n\n\nLe apasiona la ingeniería de datos en tiempo real y la integración de APIs en Python."
+    "section": "",
+    "text": "José Ramón\n\n\nDisfruta optimizando algoritmos y procesando grandes volúmenes de datos con Python y DuckDB."
   },
   {
-    "objectID": "index.html#guillermo-barrios",
-    "href": "index.html#guillermo-barrios",
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
     "title": "WeatherLab",
-    "section": "Guillermo Barrios",
-    "text": "Guillermo Barrios\n\n\n\n\n\n\nGuillermo Barrios\n\n\nDisfruta de preparar cafés, manipular datos y hacer visualizaciones claras y efectivas."
+    "section": "",
+    "text": "Pilar\n\n\nEspecialista en integrar sensores y crear interfaces web interactivas con Shiny en Python."
+  },
+  {
+    "objectID": "index.html#section-4",
+    "href": "index.html#section-4",
+    "title": "WeatherLab",
+    "section": "",
+    "text": "Abdelaly\n\n\nInvestiga confort térmico y aplica el índice UTCI para mejorar la eficiencia de edificios."
+  },
+  {
+    "objectID": "index.html#section-5",
+    "href": "index.html#section-5",
+    "title": "WeatherLab",
+    "section": "",
+    "text": "Fernando H\n\n\nDiseña pipelines de datos y automatiza la limpieza y transformación con DuckDB."
+  },
+  {
+    "objectID": "index.html#section-6",
+    "href": "index.html#section-6",
+    "title": "WeatherLab",
+    "section": "",
+    "text": "Fernando R\n\n\nLe apasiona la ingeniería de datos en tiempo real y la integración de APIs en Python."
+  },
+  {
+    "objectID": "index.html#section-7",
+    "href": "index.html#section-7",
+    "title": "WeatherLab",
+    "section": "",
+    "text": "Guillermo Barrios\n\n\nDisfruta de preparar cafés, manipular datos y hacer visualizaciones claras y efectivas."
   }
 ]

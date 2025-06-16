@@ -18,7 +18,26 @@ format:
     vertical-center: true
 ---
 
+## Objetivo {.center}
 
+- Crear una web app para administrar y visualizar los datos de cualquier estación meteorológica, 
+configurable y con tecnologías abiertas.
+ 
+
+## Objetivos especificos {.center}
+
+1. Tener una base de datos históricos `limpios` 
+2. App para `visualizar` y `descargar` los datos históricos, configurable y `libre`
+3. Herramientas `educativas/investigación` asociadas a los datos
+
+
+## Tecnologías {.center} 
+- Python
+- Shiny
+- Git/GitHub
+- DuckDB
+
+## El Team: {.center}
 
 <style>
 .profile-container {
@@ -31,8 +50,8 @@ width: 100%;
 height: 100%;           /* ocupa todo el alto de la slide */
 }
 .profile-container img {
-width: clamp(200px, 25vw, 300px);
-height: clamp(200px, 25vw, 300px);
+width: clamp(300px, 25vw, 500px);
+height: clamp(300px, 25vw, 500px);
 object-fit: cover;
 border-radius: 50%;
 box-shadow: 0 6px 16px rgba(0,0,0,.15);
@@ -58,7 +77,7 @@ transform: scale(1.05);
 }
 </style>
 
-## Sophia
+##  
 
 <div class="profile-container">
 <div><img src="fotos/Sophia.jpg" alt="Sophia"></div>
@@ -70,7 +89,7 @@ transform: scale(1.05);
 
 ---
 
-## Erick
+## 
 
 <div class="profile-container">
 <div><img src="fotos/Erick.jpg" alt="Erick"></div>
@@ -82,7 +101,7 @@ transform: scale(1.05);
 
 ---
 
-## José Ramón
+## 
 
 <div class="profile-container">
 <div><img src="fotos/Jose_Ramon.jpg" alt="José Ramón"></div>
@@ -94,7 +113,7 @@ transform: scale(1.05);
 
 ---
 
-## Pilar
+## 
 
 <div class="profile-container">
 <div><img src="fotos/Pilar.jpg" alt="Pilar"></div>
@@ -104,9 +123,9 @@ transform: scale(1.05);
 </div>
 </div>
 
----
+--- 
 
-## Abdelaly
+## 
 
 <div class="profile-container">
 <div><img src="fotos/Abdelaly.jpg" alt="Abdelaly"></div>
@@ -118,7 +137,7 @@ transform: scale(1.05);
 
 ---
 
-## Fernando H
+## 
 
 <div class="profile-container">
 <div><img src="fotos/Fernando_H.jpg" alt="Fernando H"></div>
@@ -130,7 +149,7 @@ transform: scale(1.05);
 
 ---
 
-## Fernando R
+## 
 
 <div class="profile-container">
 <div><img src="fotos/Fernando_R.jpg" alt="Fernando R"></div>
@@ -142,10 +161,10 @@ transform: scale(1.05);
 
 ---
 
-## Guillermo Barrios
+## 
 
 <div class="profile-container">
-<div><img src="fotos/Guillermo.jpg" alt="Guillermo Barrios"></div>
+<div><img src="fotos/Guillermo.jpg" alt="Guillermo Barrios"></div> 
 <div class="profile-text">
   <div class="name">Guillermo Barrios</div>
   <div class="desc">Disfruta de preparar cafés, manipular datos y hacer visualizaciones claras y efectivas.</div>
