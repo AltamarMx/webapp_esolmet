@@ -9,7 +9,9 @@ author:
   - Abdelaly 
   - Fernando H
   - Fernando R
+  - Jesús
   - Guillermo
+
 format: 
   revealjs:
     slide-number: c/t  
@@ -159,7 +161,23 @@ transform: scale(1.05);
 </div>
 </div>
 
+
+
+
 ---
+
+## 
+
+<div class="profile-container">
+<div><img src="fotos/Jesus.jpg" alt="Jesus Quiñones"></div> 
+<div class="profile-text">
+  <div class="name">Jesús Quiñones</div>
+  <div class="desc">Mide variables meteorológicas y usa sombrero para el sol.</div>
+</div>
+</div>
+---
+
+
 
 ## 
 
@@ -170,3 +188,4 @@ transform: scale(1.05);
   <div class="desc">Disfruta de preparar cafés, manipular datos y hacer visualizaciones claras y efectivas.</div>
 </div>
 </div>
+
